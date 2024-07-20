@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Lenoliums/Calculator/static/css/main.7d4103db.css",
+    "main.js": "/Lenoliums/Calculator/static/js/main.4095da33.js",
+    "static/js/453.5468de11.chunk.js": "/Lenoliums/Calculator/static/js/453.5468de11.chunk.js",
+    "static/media/plus_and_minus_symbols_27nk8zfave77.svg": "/Lenoliums/Calculator/static/media/plus_and_minus_symbols_27nk8zfave77.6f0729381fa1b3772ce31d2959b4e501.svg",
+    "index.html": "/Lenoliums/Calculator/index.html",
+    "static/media/sun.svg": "/Lenoliums/Calculator/static/media/sun.543fc083f4d40d6fffe8a5f58620de39.svg",
+    "static/media/percent.svg": "/Lenoliums/Calculator/static/media/percent.3095f5885cf9966b3275a93fff043a03.svg",
+    "static/media/moon.svg": "/Lenoliums/Calculator/static/media/moon.aec06cf3808f7fd464bb81fe88086791.svg",
+    "static/media/deleteLast.svg": "/Lenoliums/Calculator/static/media/deleteLast.b5ed27fd9fa27895d74ed4c4b9012c19.svg",
+    "static/media/comma_saeuzkw2lm5h.svg": "/Lenoliums/Calculator/static/media/comma_saeuzkw2lm5h.3cdddded17213f60ad095a063316966f.svg",
+    "static/media/deleteAll.svg": "/Lenoliums/Calculator/static/media/deleteAll.5dea5c232eb4bd3492a73efcc498f876.svg",
+    "static/media/devision.svg": "/Lenoliums/Calculator/static/media/devision.ff18bb7c76cd9edca29771a555197127.svg",
+    "static/media/multiply.svg": "/Lenoliums/Calculator/static/media/multiply.e05fc3aa80bea53c6cb8e71069eb53dc.svg",
+    "static/media/plus.svg": "/Lenoliums/Calculator/static/media/plus.f0b2670a2942baa2eed800878160f433.svg",
+    "static/media/equal.svg": "/Lenoliums/Calculator/static/media/equal.5e409a24ea84d86fc3d2983dfc9c554f.svg",
+    "static/media/minus.svg": "/Lenoliums/Calculator/static/media/minus.0f64930d5b9ea644024c8704cc7140c9.svg",
+    "main.7d4103db.css.map": "/Lenoliums/Calculator/static/css/main.7d4103db.css.map",
+    "main.4095da33.js.map": "/Lenoliums/Calculator/static/js/main.4095da33.js.map",
+    "453.5468de11.chunk.js.map": "/Lenoliums/Calculator/static/js/453.5468de11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d4103db.css",
+    "static/js/main.4095da33.js"
+  ]
+}
