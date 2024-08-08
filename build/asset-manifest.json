@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Calculator/static/css/main.a76afead.css",
+    "main.css": "/Calculator/static/css/main.0ff5b835.css",
     "main.js": "/Calculator/static/js/main.8a3c396e.js",
     "static/js/453.5468de11.chunk.js": "/Calculator/static/js/453.5468de11.chunk.js",
     "static/media/plus_and_minus_symbols_27nk8zfave77.svg": "/Calculator/static/media/plus_and_minus_symbols_27nk8zfave77.6f0729381fa1b3772ce31d2959b4e501.svg",
@@ -16,12 +16,12 @@
     "static/media/plus.svg": "/Calculator/static/media/plus.f0b2670a2942baa2eed800878160f433.svg",
     "static/media/equal.svg": "/Calculator/static/media/equal.5e409a24ea84d86fc3d2983dfc9c554f.svg",
     "static/media/minus.svg": "/Calculator/static/media/minus.0f64930d5b9ea644024c8704cc7140c9.svg",
-    "main.a76afead.css.map": "/Calculator/static/css/main.a76afead.css.map",
+    "main.0ff5b835.css.map": "/Calculator/static/css/main.0ff5b835.css.map",
     "main.8a3c396e.js.map": "/Calculator/static/js/main.8a3c396e.js.map",
     "453.5468de11.chunk.js.map": "/Calculator/static/js/453.5468de11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a76afead.css",
+    "static/css/main.0ff5b835.css",
     "static/js/main.8a3c396e.js"
   ]
 }
